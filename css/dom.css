@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* * selecionar todos os elementos do HTML  */
+
+.container {
+    max-width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    /* border-radius: arredonda a borda */
+    /* background-color: lightblue; */
+    margin: 0 auto;
+    text-align: center;
+    /* text-align: centraliza a div */
+
+}
+
+.card {
+    height: 150px;
+    background: rgb(65, 0, 139);
+    color: aliceblue;
+    text-align: center;
+    line-height: 150px;
+}
+
+.botao {
+    padding: 10px;
+    background: rgb(211, 211, 211);
+    color: black;
+    margin: 10px;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.corTirardiv {
+    background: lightpink;
+}
