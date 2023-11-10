@@ -1,5 +1,6 @@
 body {
-    background: red;
+  list-style: none
+    /* background: red; */
 }
 
 body {
@@ -50,4 +51,4 @@ body {
   
   .d-block {
     display: block;
-  }
+  } 
